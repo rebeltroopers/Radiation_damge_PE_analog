@@ -1,0 +1,4074 @@
+sim frame = 0
+C2H2 C1H3 H2 
+  88    22    -114  
+ 
+sim frame = 1
+C2H2 C1H3 C1H2 C2H3 H2 
+  86    21    1    2    -115  
+ 
+sim frame = 2
+C2H2 C1H3 C1H2 C2H3 H2 
+  86    21    1    2    -115  
+ 
+sim frame = 3
+C2H2 C1H3 C1H2 C2H3 H2 
+  86    22    2    0    -114  
+ 
+sim frame = 4
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 5
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 6
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 7
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 8
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 9
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 10
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 11
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 12
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 13
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    22    2    0    1    -115  
+ 
+sim frame = 14
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 15
+C2H2 C1H3 C1H2 C2H3 C0H3 H2 
+  85    21    3    0    1    -114  
+ 
+sim frame = 16
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 H2 
+  85    20    3    0    1    1    -115  
+ 
+sim frame = 17
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 H2 
+  85    21    3    0    0    0    1    -115  
+ 
+sim frame = 18
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 H2 
+  85    21    3    1    0    0    0    -114  
+ 
+sim frame = 19
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 H2 
+  85    21    3    1    0    0    0    -114  
+ 
+sim frame = 20
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 H2 
+  85    21    3    0    1    0    0    -114  
+ 
+sim frame = 21
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 H2 
+  85    21    3    0    1    0    0    -114  
+ 
+sim frame = 22
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 H2 
+  85    21    3    0    1    0    0    -114  
+ 
+sim frame = 23
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 H2 
+  84    21    3    1    1    0    0    -115  
+ 
+sim frame = 24
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 H2 
+  84    20    3    1    0    1    1    -117  
+ 
+sim frame = 25
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  84    21    3    0    0    1    0    1    -115  
+ 
+sim frame = 26
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 27
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 28
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 29
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 30
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 31
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 32
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 33
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 34
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 35
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 36
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 37
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 38
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 39
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 40
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 41
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 42
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 43
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 44
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 45
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 46
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 47
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 48
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 49
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 50
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 51
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    22    2    0    1    0    0    0    -115  
+ 
+sim frame = 52
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    22    2    0    1    0    0    0    -115  
+ 
+sim frame = 53
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    22    2    0    1    0    0    0    -115  
+ 
+sim frame = 54
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    22    2    0    1    0    0    0    -115  
+ 
+sim frame = 55
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    22    2    0    1    0    0    0    -115  
+ 
+sim frame = 56
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    22    2    0    1    0    0    0    -115  
+ 
+sim frame = 57
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    22    2    0    1    0    0    0    -115  
+ 
+sim frame = 58
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 59
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 60
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 61
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 62
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 63
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 64
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 65
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 66
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 67
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 68
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 69
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 70
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 71
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 72
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 73
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 74
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 75
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 76
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 77
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 78
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 79
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 80
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 81
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 82
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 83
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 84
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 85
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 86
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 87
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 88
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 89
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 90
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 91
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 92
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 93
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 94
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 95
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 96
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 97
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 98
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 99
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 100
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 101
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 102
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 103
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 104
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 105
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 106
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 107
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 108
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 109
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 110
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 111
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 112
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 113
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 114
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 115
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 116
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 117
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 118
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 119
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 120
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 121
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 122
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 123
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 124
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 125
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 126
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 127
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 128
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 129
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 130
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 131
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 132
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 133
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 134
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 135
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 136
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 137
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 138
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 139
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 140
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 141
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 142
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 143
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 144
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 145
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 146
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 147
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 148
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 149
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 150
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 151
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 152
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 153
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 154
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 155
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 156
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 157
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 158
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 159
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 160
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 161
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 162
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 163
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 164
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 165
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 166
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 167
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 168
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 169
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 170
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 171
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 172
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 173
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 174
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 175
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 176
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 177
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 178
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 179
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 180
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 181
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 182
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 183
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 184
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 185
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 186
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 187
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 188
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 189
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 190
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 191
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 192
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 193
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 194
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 195
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 196
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 197
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 198
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 199
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 200
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 201
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 202
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 203
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 204
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 205
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 206
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 207
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 208
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 209
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 210
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 211
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 212
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 213
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 214
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 215
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 216
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 217
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 218
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 219
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 220
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 221
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 222
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 223
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 224
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 225
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 226
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 227
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 228
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 229
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 230
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 231
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 232
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 233
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 234
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 235
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 236
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 237
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 238
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 239
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 240
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 241
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 242
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 243
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 244
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 245
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 246
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 247
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 248
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 249
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 250
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 251
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 252
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 253
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 254
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 255
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 256
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 257
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 258
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 259
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 260
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 261
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 262
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 263
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 264
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 265
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 266
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 267
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 268
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 269
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 270
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 271
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 272
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 273
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 274
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 275
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 276
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 277
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 278
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 279
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 280
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 281
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 282
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 283
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 284
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 285
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 286
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 287
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 288
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 289
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 290
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 291
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 292
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 293
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 294
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 295
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 296
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 297
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 298
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 299
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 300
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 301
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 302
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 303
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 304
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 305
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 306
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 307
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 308
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 309
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 310
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 311
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 312
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 313
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 314
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 315
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 316
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 317
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 318
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 319
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 320
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 321
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 322
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 323
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 324
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 325
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 326
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 327
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 328
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 329
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 330
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 331
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 332
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 333
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 334
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 335
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 336
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 337
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 338
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 339
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 340
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 341
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 342
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 343
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 344
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 345
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 346
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 347
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 348
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 349
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 350
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 351
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 352
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 353
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 354
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 355
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 356
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 357
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 358
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 359
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 360
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 361
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 362
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 363
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 364
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 365
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 366
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 367
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 368
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 369
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 370
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 371
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 372
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 373
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 374
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 375
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 376
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 377
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 378
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 379
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 380
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 381
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 382
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 383
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 384
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 385
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 386
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 387
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 388
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 389
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 390
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 391
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 392
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 393
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 394
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 395
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 396
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 397
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 398
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 399
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 400
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 401
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 402
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 403
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 404
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 405
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 406
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 407
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 408
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 409
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 410
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 411
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 412
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 413
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 414
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 415
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 416
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 417
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 418
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 419
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 420
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 421
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 422
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 423
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 424
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 425
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 426
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 427
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 428
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 429
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 430
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 431
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 432
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 433
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 434
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 435
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 436
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 437
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 438
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 439
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 440
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 441
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 442
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 443
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 444
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 445
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 446
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 447
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 448
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 449
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 450
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 451
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 452
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 453
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 454
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 455
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 456
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 457
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 458
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 459
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 460
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 461
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 462
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 463
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 464
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 465
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 466
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 467
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 468
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 469
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 470
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 471
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 472
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 473
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 474
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 475
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 476
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 477
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 478
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 479
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 480
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 481
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 482
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 483
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 484
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 485
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 486
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 487
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 488
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 489
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 490
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 491
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 492
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 493
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 494
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 495
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 496
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 497
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 498
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 499
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 500
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 501
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 502
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 503
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 504
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 505
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 506
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 507
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 508
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 509
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 510
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 511
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 512
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 513
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 514
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 515
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 516
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 517
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 518
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 519
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 520
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 521
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 522
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 523
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 524
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 525
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 526
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 527
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 528
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 529
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 530
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 531
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 532
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 533
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 534
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 535
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 536
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 537
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 538
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 539
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 540
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 541
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 542
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 543
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 544
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 545
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 546
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 547
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 548
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 549
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 550
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 551
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 552
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 553
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 554
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 555
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 556
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 557
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 558
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 559
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 560
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 561
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 562
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 563
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 564
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 565
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 566
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 567
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 568
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 569
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 570
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 571
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 572
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 573
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 574
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 575
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 576
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 577
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 578
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 579
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 580
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 581
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 582
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 583
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 584
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 585
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 586
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 587
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 588
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 589
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 590
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 591
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 592
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 593
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 594
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 595
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 596
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 597
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 598
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 599
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 600
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 601
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 602
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 603
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 604
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 605
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 606
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 607
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 608
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 609
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 610
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 611
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 612
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 613
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 614
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 615
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 616
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 617
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 618
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 619
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 620
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 621
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 622
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 623
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 624
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 625
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 626
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 627
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 628
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 629
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 630
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 631
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 632
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 633
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 634
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 635
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 636
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 637
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 638
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 639
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 640
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 641
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 642
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 643
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 644
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 645
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 646
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 647
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 648
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 649
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 650
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 651
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 652
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 653
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 654
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 655
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 656
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 657
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 658
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 659
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 660
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 661
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 662
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 663
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 664
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 665
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 666
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 667
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 668
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 669
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 670
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 671
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 672
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 673
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 674
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 675
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 676
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 677
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 678
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 679
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 680
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 681
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 682
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 683
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 684
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 685
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 686
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 687
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 688
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 689
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 690
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 691
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 692
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 693
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 694
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 695
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 696
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 697
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 698
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 699
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 700
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 701
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 702
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 703
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 704
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 705
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 706
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 707
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 708
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 709
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 710
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 711
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 712
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 713
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 714
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 715
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 716
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 717
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 718
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 719
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 720
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 721
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 722
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 723
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 724
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 725
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 726
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 727
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 728
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 729
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 730
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 731
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 732
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 733
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 734
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 735
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 736
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 737
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 738
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 739
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 740
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 741
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 742
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 743
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 744
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 745
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 746
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 747
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 748
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 749
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 750
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 751
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 752
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 753
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 754
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 755
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 756
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 757
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 758
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 759
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 760
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 761
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 762
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 763
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 764
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 765
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 766
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 767
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 768
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 769
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 770
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 771
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 772
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 773
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 774
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 775
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 776
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 777
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 778
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 779
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 780
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 781
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 782
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 783
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 784
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 785
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 786
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 787
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 788
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 789
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 790
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 791
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 792
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 793
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 794
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 795
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 796
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 797
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 798
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 799
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 800
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 801
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 802
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 803
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 804
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 805
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 806
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 807
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 808
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 809
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 810
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 811
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 812
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 813
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 814
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 815
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 816
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 817
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 818
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 819
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 820
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 821
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 822
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 823
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 824
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 825
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 826
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 827
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 828
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 829
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 830
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 831
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 832
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 833
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 834
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 835
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 836
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 837
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 838
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 839
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 840
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 841
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 842
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 843
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 844
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 845
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 846
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 847
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 848
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 849
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 850
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 851
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 852
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 853
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 854
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 855
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 856
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 857
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 858
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 859
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 860
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 861
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 862
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 863
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 864
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 865
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 866
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 867
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 868
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 869
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 870
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 871
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 872
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 873
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 874
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 875
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 876
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 877
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 878
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 879
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 880
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 881
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 882
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 883
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 884
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 885
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 886
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 887
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 888
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 889
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 890
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 891
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 892
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 893
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 894
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 895
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 896
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 897
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 898
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 899
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 900
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 901
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 902
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 903
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 904
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 905
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 906
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 907
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 908
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 909
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 910
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 911
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 912
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 913
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 914
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 915
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 916
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 917
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 918
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 919
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 920
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 921
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 922
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 923
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 924
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 925
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 926
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 927
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 928
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 929
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 930
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 931
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 932
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 933
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 934
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 935
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 936
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 937
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 938
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 939
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 940
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 941
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 942
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 943
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 944
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 945
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 946
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 947
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 948
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 949
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 950
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 951
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 952
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 953
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 954
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 955
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 956
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 957
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 958
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 959
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 960
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 961
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 962
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 963
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 964
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 965
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 966
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 967
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 968
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 969
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 970
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 971
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 972
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    1    0    0    0    -114  
+ 
+sim frame = 973
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 974
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 975
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 976
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 977
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 978
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 979
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 980
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 981
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 H2 
+  85    21    3    0    0    0    1    0    -115  
+ 
+sim frame = 982
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 983
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  85    21    3    0    0    0    1    0    0    -115  
+ 
+sim frame = 984
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 985
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 986
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 987
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 988
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 989
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 990
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 991
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 992
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 993
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 994
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 995
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 996
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 997
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 998
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 999
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1000
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1001
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1002
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1003
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1004
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1005
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1006
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1007
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1008
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1009
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1010
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1011
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1012
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1013
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1014
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1015
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1016
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1017
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 
+  84    21    3    0    0    0    1    0    1    -114  
+ 
+sim frame = 1018
+C2H2 C1H3 C1H2 C2H3 C0H3 C1H4 C0H4 C3H2 C2H1 H2 

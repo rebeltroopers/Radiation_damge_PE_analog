@@ -1,0 +1,24 @@
+plot 'RDF_heat_carbon_70_ev_short.txt' u 1:2:3 with image
+#set size .5,.5
+set lmargin at screen .1
+set bmargin at screen .1
+set xrange [1:3]
+set yrange [.02:.5]
+set xlabel 'Distance Å' font "Computer-modern,26"
+set ylabel 'Time ps' font "Computer-modern,26" offset -3
+set xtics font ",20"
+set ytics  font ",20"
+set ytics 0,.1,.5
+
+set title 'gofr time average over 0-1.5PS C-C bonds only 70 eV excitaion' font ',12'
+
+set cbrange [0:3]
+set cbtics font "Computer-modern , 20"
+replot
+pause -1
+
+#set term png
+
+#set terminal pngcairo # enhanced font 'Verdana,6'
+#set output 'heat_map_short_70_ev_C-C_gofr.PNG'
+#replot

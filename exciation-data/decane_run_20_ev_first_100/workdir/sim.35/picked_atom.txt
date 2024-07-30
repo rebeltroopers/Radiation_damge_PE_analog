@@ -1,0 +1,3 @@
+the picked atom 45
+the atom that got excited 144
+sim that was picked was 6

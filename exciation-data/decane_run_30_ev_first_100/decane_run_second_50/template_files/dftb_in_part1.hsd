@@ -1,0 +1,18 @@
+Geometry = GenFormat {
+<<< "system.gen"
+}
+
+Driver = VelocityVerlet{
+  Steps = 50000
+  TimeStep [fs] = 0.2
+  MDRestartFrequency = 5
+  Thermostat = None {
+    #InitialTemperature [Kelvin] = 300.0
+  }
+  Xlbomd{ 
+    IntegrationSteps = 6 
+    MinSccIterations = 2
+    MaxSccIterations = 200
+    SccTolerance = 1e-6 
+  }
+  Velocities [m/s] {

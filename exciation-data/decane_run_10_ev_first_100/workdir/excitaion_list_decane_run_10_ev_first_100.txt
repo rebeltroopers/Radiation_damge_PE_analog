@@ -1,0 +1,400 @@
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.1
+the picked atom 7
+the atom that got excited 22
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.10
+the picked atom 27
+the atom that got excited 86
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.100
+the picked atom 20
+the atom that got excited 65
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.11
+the picked atom 53
+the atom that got excited 170
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.12
+the picked atom 26
+the atom that got excited 83
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.13
+the picked atom 39
+the atom that got excited 125
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.14
+the picked atom 53
+the atom that got excited 170
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.15
+the picked atom 34
+the atom that got excited 109
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.16
+the picked atom 67
+the atom that got excited 214
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.17
+the picked atom 82
+the atom that got excited 263
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.18
+the picked atom 28
+the atom that got excited 89
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.19
+the picked atom 52
+the atom that got excited 167
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.2
+the picked atom 79
+the atom that got excited 253
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.20
+the picked atom 38
+the atom that got excited 121
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.21
+the picked atom 85
+the atom that got excited 272
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.22
+the picked atom 47
+the atom that got excited 150
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.23
+the picked atom 22
+the atom that got excited 71
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.24
+the picked atom 19
+the atom that got excited 61
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.25
+the picked atom 108
+the atom that got excited 345
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.26
+the picked atom 94
+the atom that got excited 301
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.27
+the picked atom 53
+the atom that got excited 170
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.28
+the picked atom 22
+the atom that got excited 71
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.29
+the picked atom 87
+the atom that got excited 278
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.3
+the picked atom 100
+the atom that got excited 321
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.30
+the picked atom 30
+the atom that got excited 97
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.31
+the picked atom 74
+the atom that got excited 237
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.32
+the picked atom 76
+the atom that got excited 243
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.33
+the picked atom 108
+the atom that got excited 345
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.34
+the picked atom 70
+the atom that got excited 225
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.35
+the picked atom 50
+the atom that got excited 161
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.36
+the picked atom 9
+the atom that got excited 29
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.37
+the picked atom 36
+the atom that got excited 115
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.38
+the picked atom 5
+the atom that got excited 16
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.39
+the picked atom 40
+the atom that got excited 129
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.4
+the picked atom 78
+the atom that got excited 249
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.40
+the picked atom 12
+the atom that got excited 39
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.41
+the picked atom 78
+the atom that got excited 249
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.42
+the picked atom 76
+the atom that got excited 243
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.43
+the picked atom 51
+the atom that got excited 164
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.44
+the picked atom 52
+the atom that got excited 167
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.45
+the picked atom 96
+the atom that got excited 307
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.46
+the picked atom 37
+the atom that got excited 118
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.47
+the picked atom 75
+the atom that got excited 240
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.48
+the picked atom 105
+the atom that got excited 336
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.49
+the picked atom 93
+the atom that got excited 298
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.5
+the picked atom 21
+the atom that got excited 68
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.50
+the picked atom 63
+the atom that got excited 202
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.51
+the picked atom 52
+the atom that got excited 167
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.52
+the picked atom 65
+the atom that got excited 208
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.53
+the picked atom 48
+the atom that got excited 153
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.54
+the picked atom 65
+the atom that got excited 208
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.55
+the picked atom 95
+the atom that got excited 304
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.56
+the picked atom 88
+the atom that got excited 281
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.57
+the picked atom 21
+the atom that got excited 68
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.58
+the picked atom 107
+the atom that got excited 342
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.59
+the picked atom 52
+the atom that got excited 167
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.6
+the picked atom 10
+the atom that got excited 33
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.60
+the picked atom 100
+the atom that got excited 321
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.61
+the picked atom 17
+the atom that got excited 54
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.62
+the picked atom 109
+the atom that got excited 349
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.63
+the picked atom 89
+the atom that got excited 285
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.64
+the picked atom 93
+the atom that got excited 298
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.65
+the picked atom 82
+the atom that got excited 263
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.66
+the picked atom 26
+the atom that got excited 83
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.67
+the picked atom 57
+the atom that got excited 182
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.68
+the picked atom 3
+the atom that got excited 10
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.69
+the picked atom 108
+the atom that got excited 345
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.7
+the picked atom 43
+the atom that got excited 138
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.70
+the picked atom 47
+the atom that got excited 150
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.71
+the picked atom 87
+the atom that got excited 278
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.72
+the picked atom 68
+the atom that got excited 217
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.73
+the picked atom 94
+the atom that got excited 301
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.74
+the picked atom 32
+the atom that got excited 103
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.75
+the picked atom 45
+the atom that got excited 144
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.76
+the picked atom 47
+the atom that got excited 150
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.77
+the picked atom 25
+the atom that got excited 80
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.78
+the picked atom 49
+the atom that got excited 157
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.79
+the picked atom 55
+the atom that got excited 176
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.8
+the picked atom 78
+the atom that got excited 249
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.80
+the picked atom 58
+the atom that got excited 185
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.81
+the picked atom 36
+the atom that got excited 115
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.82
+the picked atom 64
+the atom that got excited 205
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.83
+the picked atom 77
+the atom that got excited 246
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.84
+the picked atom 52
+the atom that got excited 167
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.85
+the picked atom 40
+the atom that got excited 129
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.86
+the picked atom 2
+the atom that got excited 7
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.87
+the picked atom 93
+the atom that got excited 298
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.88
+the picked atom 85
+the atom that got excited 272
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.89
+the picked atom 65
+the atom that got excited 208
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.9
+the picked atom 33
+the atom that got excited 106
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.90
+the picked atom 15
+the atom that got excited 48
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.91
+the picked atom 62
+the atom that got excited 199
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.92
+the picked atom 34
+the atom that got excited 109
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.93
+the picked atom 65
+the atom that got excited 208
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.94
+the picked atom 77
+the atom that got excited 246
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.95
+the picked atom 73
+the atom that got excited 234
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.96
+the picked atom 61
+the atom that got excited 196
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.97
+the picked atom 26
+the atom that got excited 83
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.98
+the picked atom 23
+the atom that got excited 74
+sim that was picked was 33
+/usr/workspace/troup1/second_set/real_data/decane_run_10_ev_first_100/workdir/sim.99
+the picked atom 14
+the atom that got excited 45
+sim that was picked was 33

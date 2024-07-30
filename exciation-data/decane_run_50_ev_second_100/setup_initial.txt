@@ -1,0 +1,201 @@
+4
+number of itteration 1
+the picked atom 58
+the atom that got excited 185
+   960.88607574821071     
+number of itteration 2
+the picked atom 26
+the atom that got excited 83
+   939.70578165515212     
+number of itteration 3
+the picked atom 17
+the atom that got excited 54
+   941.79643932300439     
+number of itteration 4
+the picked atom 27
+the atom that got excited 86
+   935.96482706241488     
+number of itteration 5
+the picked atom 46
+the atom that got excited 147
+   927.68703231402310     
+number of itteration 6
+the picked atom 11
+the atom that got excited 36
+   972.49798298546148     
+number of itteration 7
+the picked atom 3
+the atom that got excited 10
+   922.88055121097750     
+number of itteration 8
+the picked atom 46
+the atom that got excited 147
+   959.26336680118459     
+number of itteration 9
+the picked atom 108
+the atom that got excited 345
+   942.62045437176937     
+number of itteration 10
+the picked atom 94
+the atom that got excited 301
+   961.83234771273908     
+number of itteration 11
+the picked atom 102
+the atom that got excited 327
+   959.92798138913406     
+number of itteration 12
+the picked atom 97
+the atom that got excited 310
+   966.28911234277666     
+number of itteration 13
+the picked atom 79
+the atom that got excited 253
+   950.20310819723602     
+number of itteration 14
+the picked atom 47
+the atom that got excited 150
+   942.85500816641479     
+number of itteration 15
+the picked atom 81
+the atom that got excited 260
+   946.63008381763905     
+number of itteration 16
+the picked atom 15
+the atom that got excited 48
+   967.90999772012651     
+number of itteration 17
+the picked atom 86
+the atom that got excited 275
+   977.93866952321468     
+number of itteration 18
+the picked atom 79
+the atom that got excited 253
+   949.66226250503325     
+number of itteration 19
+the picked atom 36
+the atom that got excited 115
+   950.97805491591237     
+number of itteration 20
+the picked atom 98
+the atom that got excited 313
+   940.46499496163585     
+number of itteration 21
+the picked atom 21
+the atom that got excited 68
+   939.19855462580711     
+number of itteration 22
+the picked atom 13
+the atom that got excited 42
+   948.68812101781430     
+number of itteration 23
+the picked atom 33
+the atom that got excited 106
+   933.22365709661528     
+number of itteration 24
+the picked atom 107
+the atom that got excited 342
+   931.19079971400868     
+number of itteration 25
+the picked atom 67
+the atom that got excited 214
+   934.60741121711828     
+number of itteration 26
+the picked atom 95
+the atom that got excited 304
+   953.40669715655702     
+number of itteration 27
+the picked atom 13
+the atom that got excited 42
+   956.85388197941791     
+number of itteration 28
+the picked atom 43
+the atom that got excited 138
+   956.97575415919971     
+number of itteration 29
+the picked atom 0
+the atom that got excited 1
+   950.47690966281152     
+number of itteration 30
+the picked atom 67
+the atom that got excited 214
+   954.14490469579107     
+number of itteration 31
+the picked atom 104
+the atom that got excited 333
+   940.71524634014088     
+number of itteration 32
+the picked atom 83
+the atom that got excited 266
+   935.14691185812842     
+number of itteration 33
+the picked atom 76
+the atom that got excited 243
+   952.90999964103617     
+number of itteration 34
+the picked atom 43
+the atom that got excited 138
+   942.31613298857803     
+number of itteration 35
+the picked atom 1
+the atom that got excited 4
+   971.67077660989332     
+number of itteration 36
+the picked atom 82
+the atom that got excited 263
+   952.51507911949739     
+number of itteration 37
+the picked atom 37
+the atom that got excited 118
+   947.01543124597379     
+number of itteration 38
+the picked atom 59
+the atom that got excited 189
+   943.42585142757116     
+number of itteration 39
+the picked atom 106
+the atom that got excited 339
+   922.70831085028465     
+number of itteration 40
+the picked atom 106
+the atom that got excited 339
+   945.12641401723204     
+number of itteration 41
+the picked atom 8
+the atom that got excited 25
+   958.11921996272486     
+number of itteration 42
+the picked atom 107
+the atom that got excited 342
+   949.68206120465766     
+number of itteration 43
+the picked atom 20
+the atom that got excited 65
+   943.84478272598335     
+number of itteration 44
+the picked atom 105
+the atom that got excited 336
+   977.85351027058198     
+number of itteration 45
+the picked atom 1
+the atom that got excited 4
+   960.88463827046564     
+number of itteration 46
+the picked atom 37
+the atom that got excited 118
+   959.10552435101170     
+number of itteration 47
+the picked atom 8
+the atom that got excited 25
+   935.69786958287204     
+number of itteration 48
+the picked atom 31
+the atom that got excited 100
+   965.09517546392635     
+number of itteration 49
+the picked atom 41
+the atom that got excited 132
+   982.13510595844195     
+number of itteration 50
+the picked atom 37
+the atom that got excited 118
+   943.93676414757101     
