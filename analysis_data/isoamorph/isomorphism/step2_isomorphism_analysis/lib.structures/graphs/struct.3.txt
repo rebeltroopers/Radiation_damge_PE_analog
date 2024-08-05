@@ -1,0 +1,8 @@
+#FRAME COMPONENT
+           1           9
+#DESCRIPTOR
+           3           4           2
+#ID EL NBONDS BONDED_IDS
+          77  C            1          78
+          78  C            2          80          77
+          80  C            1          78

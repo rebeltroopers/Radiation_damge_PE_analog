@@ -1,4 +1,5 @@
 Data is split into multiple directories, where eV energy is in the label. The data inside these directories will be enough to recreate the dataset from scratch.
+Data also was split into first 100 set and second 100 set.
 
 Each directory contains the following information:
 

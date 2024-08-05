@@ -1,0 +1,9 @@
+#Ntype
+2
+#Type Mapping
+1 C
+2 H
+#Bond Length Cutoffs
+1 1 1.9
+1 2 1.5
+2 2 1.1

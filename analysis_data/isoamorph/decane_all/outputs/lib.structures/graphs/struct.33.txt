@@ -1,0 +1,14 @@
+#GLOBALINDEX  FRAME  COMPONENT  DESCRIPTORINDEX
+         949          81           6          33
+#DESCRIPTOR
+     9     3     6     2     6     0     1     7     0     0     4     0
+#ID EL NBONDS BONDED_IDS 
+     161  C        3     185     163     164
+     163  H        1     161
+     164  C        3     161     165     166
+     165  H        1     164
+     166  H        1     164
+     185  C        4     161     186     187     188
+     186  H        1     185
+     187  H        1     185
+     188  H        1     185

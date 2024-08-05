@@ -1,0 +1,1439 @@
+GlobalIndex 0 
+Found new structure, now there are:  2
+GlobalIndex 1 
+Found new structure, now there are:  3
+GlobalIndex 2 
+Found new structure, now there are:  4
+GlobalIndex 3 
+Found new structure, now there are:  5
+GlobalIndex 4 
+Found new structure, now there are:  6
+GlobalIndex 5 
+Found new structure, now there are:  7
+GlobalIndex 6 
+Found new structure, now there are:  8
+GlobalIndex 7 
+Found new structure, now there are:  9
+GlobalIndex 8 
+Found new structure, now there are:  10
+GlobalIndex 9 
+Found new structure, now there are:  11
+GlobalIndex 10 
+Found new structure, now there are:  12
+GlobalIndex 11 
+Found new structure, now there are:  13
+GlobalIndex 12 
+Found new structure, now there are:  14
+GlobalIndex 13 
+Found new structure, now there are:  15
+GlobalIndex 14 
+Found new structure, now there are:  16
+GlobalIndex 15 
+Found new structure, now there are:  17
+GlobalIndex 16 
+Found new structure, now there are:  18
+GlobalIndex 17 
+Found new structure, now there are:  19
+GlobalIndex 18 
+Found new structure, now there are:  20
+GlobalIndex 19 
+Found new structure, now there are:  21
+GlobalIndex 20 
+Found new structure, now there are:  22
+GlobalIndex 21 
+Found new structure, now there are:  23
+GlobalIndex 22 
+Found new structure, now there are:  24
+GlobalIndex 23 
+Found new structure, now there are:  25
+GlobalIndex 24 
+Found new structure, now there are:  26
+GlobalIndex 25 
+Found new structure, now there are:  27
+GlobalIndex 26 
+Found new structure, now there are:  28
+GlobalIndex 27 
+Found new structure, now there are:  29
+GlobalIndex 28 
+Found new structure, now there are:  30
+GlobalIndex 29 
+Found new structure, now there are:  31
+GlobalIndex 30 
+Found new structure, now there are:  32
+GlobalIndex 31 
+Found new structure, now there are:  33
+GlobalIndex 32 
+Found new structure, now there are:  34
+GlobalIndex 33 
+Found new structure, now there are:  35
+GlobalIndex 34 
+Found new structure, now there are:  36
+GlobalIndex 35 
+Found new structure, now there are:  37
+GlobalIndex 36 
+Found new structure, now there are:  38
+GlobalIndex 37 
+Found new structure, now there are:  39
+GlobalIndex 38 
+Found new structure, now there are:  40
+GlobalIndex 39 
+Found new structure, now there are:  41
+GlobalIndex 40 
+Found new structure, now there are:  42
+GlobalIndex 41 
+Found new structure, now there are:  43
+GlobalIndex 42 
+Found new structure, now there are:  44
+GlobalIndex 43 
+Found new structure, now there are:  45
+GlobalIndex 44 
+Found new structure, now there are:  46
+GlobalIndex 45 
+Found new structure, now there are:  47
+GlobalIndex 46 
+Found new structure, now there are:  48
+GlobalIndex 47 
+Found new structure, now there are:  49
+GlobalIndex 48 
+Found new structure, now there are:  50
+GlobalIndex 49 
+Found new structure, now there are:  51
+GlobalIndex 50 
+Found new structure, now there are:  52
+GlobalIndex 51 
+Found new structure, now there are:  53
+GlobalIndex 52 
+Found new structure, now there are:  54
+GlobalIndex 53 
+Found new structure, now there are:  55
+GlobalIndex 54 
+Found new structure, now there are:  56
+GlobalIndex 55 
+Found new structure, now there are:  57
+GlobalIndex 56 
+Found new structure, now there are:  58
+GlobalIndex 57 
+Found new structure, now there are:  59
+GlobalIndex 58 
+Found new structure, now there are:  60
+GlobalIndex 59 
+Found new structure, now there are:  61
+GlobalIndex 60 
+Found new structure, now there are:  62
+GlobalIndex 61 
+Found new structure, now there are:  63
+GlobalIndex 62 
+Found new structure, now there are:  64
+GlobalIndex 63 
+Found new structure, now there are:  65
+GlobalIndex 64 
+Found new structure, now there are:  66
+GlobalIndex 65 
+Found new structure, now there are:  67
+GlobalIndex 66 
+Found new structure, now there are:  68
+GlobalIndex 67 
+Found new structure, now there are:  69
+GlobalIndex 68 
+Found new structure, now there are:  70
+GlobalIndex 69 
+Found new structure, now there are:  71
+GlobalIndex 70 
+Found new structure, now there are:  72
+GlobalIndex 71 
+Found new structure, now there are:  73
+GlobalIndex 72 
+Found new structure, now there are:  74
+GlobalIndex 73 
+Found new structure, now there are:  75
+GlobalIndex 74 
+Found new structure, now there are:  76
+GlobalIndex 75 
+Found new structure, now there are:  77
+GlobalIndex 76 
+Found new structure, now there are:  78
+GlobalIndex 77 
+Found new structure, now there are:  79
+GlobalIndex 78 
+Found new structure, now there are:  80
+GlobalIndex 79 
+Found new structure, now there are:  81
+GlobalIndex 80 
+Found new structure, now there are:  82
+GlobalIndex 81 
+Found new structure, now there are:  83
+GlobalIndex 82 
+Found new structure, now there are:  84
+GlobalIndex 83 
+Found new structure, now there are:  85
+GlobalIndex 84 
+Found new structure, now there are:  86
+GlobalIndex 85 
+Found new structure, now there are:  87
+GlobalIndex 86 
+Found new structure, now there are:  88
+GlobalIndex 87 
+Found new structure, now there are:  89
+GlobalIndex 88 
+Found new structure, now there are:  90
+GlobalIndex 89 
+Found new structure, now there are:  91
+GlobalIndex 90 
+Found new structure, now there are:  92
+GlobalIndex 91 
+Found new structure, now there are:  93
+GlobalIndex 92 
+Found new structure, now there are:  94
+GlobalIndex 93 
+Found new structure, now there are:  95
+GlobalIndex 94 
+Found new structure, now there are:  96
+GlobalIndex 95 
+Found new structure, now there are:  97
+GlobalIndex 96 
+Found new structure, now there are:  98
+GlobalIndex 97 
+Found new structure, now there are:  99
+GlobalIndex 98 
+Found new structure, now there are:  100
+GlobalIndex 99 
+Found new structure, now there are:  101
+GlobalIndex 100 
+Found new structure, now there are:  102
+GlobalIndex 101 
+Found new structure, now there are:  103
+GlobalIndex 102 
+Found new structure, now there are:  104
+GlobalIndex 103 
+Found new structure, now there are:  105
+GlobalIndex 104 
+Found new structure, now there are:  106
+GlobalIndex 105 
+Found new structure, now there are:  107
+GlobalIndex 106 
+Found new structure, now there are:  108
+GlobalIndex 107 
+Found new structure, now there are:  109
+GlobalIndex 108 
+Found new structure, now there are:  110
+GlobalIndex 109 
+Found new structure, now there are:  111
+GlobalIndex 110 
+Found new structure, now there are:  112
+GlobalIndex 111 
+Found new structure, now there are:  113
+GlobalIndex 112 
+Found new structure, now there are:  114
+GlobalIndex 113 
+Found new structure, now there are:  115
+GlobalIndex 114 
+Found new structure, now there are:  116
+GlobalIndex 115 
+Found new structure, now there are:  117
+GlobalIndex 116 
+Found new structure, now there are:  118
+GlobalIndex 117 
+Found new structure, now there are:  119
+GlobalIndex 118 
+Found new structure, now there are:  120
+GlobalIndex 119 
+Found new structure, now there are:  121
+GlobalIndex 120 
+Found new structure, now there are:  122
+GlobalIndex 121 
+Found new structure, now there are:  123
+GlobalIndex 122 
+Found new structure, now there are:  124
+GlobalIndex 123 
+Found new structure, now there are:  125
+GlobalIndex 124 
+Found new structure, now there are:  126
+GlobalIndex 125 
+Found new structure, now there are:  127
+GlobalIndex 126 
+Found new structure, now there are:  128
+GlobalIndex 127 
+Found new structure, now there are:  129
+GlobalIndex 128 
+Found new structure, now there are:  130
+GlobalIndex 129 
+Found new structure, now there are:  131
+GlobalIndex 130 
+Found new structure, now there are:  132
+GlobalIndex 131 
+Found new structure, now there are:  133
+GlobalIndex 132 
+Found new structure, now there are:  134
+GlobalIndex 133 
+Found new structure, now there are:  135
+GlobalIndex 134 
+Found new structure, now there are:  136
+GlobalIndex 135 
+Found new structure, now there are:  137
+GlobalIndex 136 
+Found new structure, now there are:  138
+GlobalIndex 137 
+Found new structure, now there are:  139
+GlobalIndex 138 
+Found new structure, now there are:  140
+GlobalIndex 139 
+Found new structure, now there are:  141
+GlobalIndex 140 
+Found new structure, now there are:  142
+GlobalIndex 141 
+Found new structure, now there are:  143
+GlobalIndex 142 
+Found new structure, now there are:  144
+GlobalIndex 143 
+Found new structure, now there are:  145
+GlobalIndex 144 
+Found new structure, now there are:  146
+GlobalIndex 145 
+Found new structure, now there are:  147
+GlobalIndex 146 
+Found new structure, now there are:  148
+GlobalIndex 147 
+Found new structure, now there are:  149
+GlobalIndex 148 
+Found new structure, now there are:  150
+GlobalIndex 149 
+Found new structure, now there are:  151
+GlobalIndex 150 
+Found new structure, now there are:  152
+GlobalIndex 151 
+Found new structure, now there are:  153
+GlobalIndex 152 
+Found new structure, now there are:  154
+GlobalIndex 153 
+Found new structure, now there are:  155
+GlobalIndex 154 
+Found new structure, now there are:  156
+GlobalIndex 155 
+Found new structure, now there are:  157
+GlobalIndex 156 
+Found new structure, now there are:  158
+GlobalIndex 157 
+Found new structure, now there are:  159
+GlobalIndex 158 
+Found new structure, now there are:  160
+GlobalIndex 159 
+Found new structure, now there are:  161
+GlobalIndex 160 
+Found new structure, now there are:  162
+GlobalIndex 161 
+Found new structure, now there are:  163
+GlobalIndex 162 
+Found new structure, now there are:  164
+GlobalIndex 163 
+Found new structure, now there are:  165
+GlobalIndex 164 
+Found new structure, now there are:  166
+GlobalIndex 165 
+Found new structure, now there are:  167
+GlobalIndex 166 
+Found new structure, now there are:  168
+GlobalIndex 167 
+Found new structure, now there are:  169
+GlobalIndex 168 
+Found new structure, now there are:  170
+GlobalIndex 169 
+Found new structure, now there are:  171
+GlobalIndex 170 
+Found new structure, now there are:  172
+GlobalIndex 171 
+Found new structure, now there are:  173
+GlobalIndex 172 
+Found new structure, now there are:  174
+GlobalIndex 173 
+Found new structure, now there are:  175
+GlobalIndex 174 
+Found new structure, now there are:  176
+GlobalIndex 175 
+Found new structure, now there are:  177
+GlobalIndex 176 
+Found new structure, now there are:  178
+GlobalIndex 177 
+Found new structure, now there are:  179
+GlobalIndex 178 
+Found new structure, now there are:  180
+GlobalIndex 179 
+Found new structure, now there are:  181
+GlobalIndex 180 
+Found new structure, now there are:  182
+GlobalIndex 181 
+Found new structure, now there are:  183
+GlobalIndex 182 
+Found new structure, now there are:  184
+GlobalIndex 183 
+Found new structure, now there are:  185
+GlobalIndex 184 
+Found new structure, now there are:  186
+GlobalIndex 185 
+Found new structure, now there are:  187
+GlobalIndex 186 
+Found new structure, now there are:  188
+GlobalIndex 187 
+Found new structure, now there are:  189
+GlobalIndex 188 
+Found new structure, now there are:  190
+GlobalIndex 189 
+Found new structure, now there are:  191
+GlobalIndex 190 
+Found new structure, now there are:  192
+GlobalIndex 191 
+Found new structure, now there are:  193
+GlobalIndex 192 
+Found new structure, now there are:  194
+GlobalIndex 193 
+Found new structure, now there are:  195
+GlobalIndex 194 
+Found new structure, now there are:  196
+GlobalIndex 195 
+Found new structure, now there are:  197
+GlobalIndex 196 
+Found new structure, now there are:  198
+GlobalIndex 197 
+Found new structure, now there are:  199
+GlobalIndex 198 
+Found new structure, now there are:  200
+GlobalIndex 199 
+Found new structure, now there are:  201
+GlobalIndex 200 
+Found new structure, now there are:  202
+GlobalIndex 201 
+Found new structure, now there are:  203
+GlobalIndex 202 
+Found new structure, now there are:  204
+GlobalIndex 203 
+Found new structure, now there are:  205
+GlobalIndex 204 
+Found new structure, now there are:  206
+GlobalIndex 205 
+Found new structure, now there are:  207
+GlobalIndex 206 
+Found new structure, now there are:  208
+GlobalIndex 207 
+Found new structure, now there are:  209
+GlobalIndex 208 
+Found new structure, now there are:  210
+GlobalIndex 209 
+Found new structure, now there are:  211
+GlobalIndex 210 
+Found new structure, now there are:  212
+GlobalIndex 211 
+Found new structure, now there are:  213
+GlobalIndex 212 
+Found new structure, now there are:  214
+GlobalIndex 213 
+Found new structure, now there are:  215
+GlobalIndex 214 
+Found new structure, now there are:  216
+GlobalIndex 215 
+Found new structure, now there are:  217
+GlobalIndex 216 
+Found new structure, now there are:  218
+GlobalIndex 217 
+Found new structure, now there are:  219
+GlobalIndex 218 
+Found new structure, now there are:  220
+GlobalIndex 219 
+Found new structure, now there are:  221
+GlobalIndex 220 
+Found new structure, now there are:  222
+GlobalIndex 221 
+Found new structure, now there are:  223
+GlobalIndex 222 
+Found new structure, now there are:  224
+GlobalIndex 223 
+Found new structure, now there are:  225
+GlobalIndex 224 
+Found new structure, now there are:  226
+GlobalIndex 225 
+Found new structure, now there are:  227
+GlobalIndex 226 
+Found new structure, now there are:  228
+GlobalIndex 227 
+Found new structure, now there are:  229
+GlobalIndex 228 
+Found new structure, now there are:  230
+GlobalIndex 229 
+Found new structure, now there are:  231
+GlobalIndex 230 
+Found new structure, now there are:  232
+GlobalIndex 231 
+Found new structure, now there are:  233
+GlobalIndex 232 
+Found new structure, now there are:  234
+GlobalIndex 233 
+Found new structure, now there are:  235
+GlobalIndex 234 
+Found new structure, now there are:  236
+GlobalIndex 235 
+Found new structure, now there are:  237
+GlobalIndex 236 
+Found new structure, now there are:  238
+GlobalIndex 237 
+Found new structure, now there are:  239
+GlobalIndex 238 
+Found new structure, now there are:  240
+GlobalIndex 239 
+Found new structure, now there are:  241
+GlobalIndex 240 
+Found new structure, now there are:  242
+GlobalIndex 241 
+Found new structure, now there are:  243
+GlobalIndex 242 
+Found new structure, now there are:  244
+GlobalIndex 243 
+Found new structure, now there are:  245
+GlobalIndex 244 
+Found new structure, now there are:  246
+GlobalIndex 245 
+Found new structure, now there are:  247
+GlobalIndex 246 
+Found new structure, now there are:  248
+GlobalIndex 247 
+Found new structure, now there are:  249
+GlobalIndex 248 
+Found new structure, now there are:  250
+GlobalIndex 249 
+Found new structure, now there are:  251
+GlobalIndex 250 
+Found new structure, now there are:  252
+GlobalIndex 251 
+Found new structure, now there are:  253
+GlobalIndex 252 
+Found new structure, now there are:  254
+GlobalIndex 253 
+Found new structure, now there are:  255
+GlobalIndex 254 
+Found new structure, now there are:  256
+GlobalIndex 255 
+Found new structure, now there are:  257
+GlobalIndex 256 
+Found new structure, now there are:  258
+GlobalIndex 257 
+Found new structure, now there are:  259
+GlobalIndex 258 
+Found new structure, now there are:  260
+GlobalIndex 259 
+Found new structure, now there are:  261
+GlobalIndex 260 
+Found new structure, now there are:  262
+GlobalIndex 261 
+Found new structure, now there are:  263
+GlobalIndex 262 
+Found new structure, now there are:  264
+GlobalIndex 263 
+Found new structure, now there are:  265
+GlobalIndex 264 
+Found new structure, now there are:  266
+GlobalIndex 265 
+Found new structure, now there are:  267
+GlobalIndex 266 
+Found new structure, now there are:  268
+GlobalIndex 267 
+Found new structure, now there are:  269
+GlobalIndex 268 
+Found new structure, now there are:  270
+GlobalIndex 269 
+Found new structure, now there are:  271
+GlobalIndex 270 
+Found new structure, now there are:  272
+GlobalIndex 271 
+Found new structure, now there are:  273
+GlobalIndex 272 
+Found new structure, now there are:  274
+GlobalIndex 273 
+Found new structure, now there are:  275
+GlobalIndex 274 
+Found new structure, now there are:  276
+GlobalIndex 275 
+Found new structure, now there are:  277
+GlobalIndex 276 
+Found new structure, now there are:  278
+GlobalIndex 277 
+Found new structure, now there are:  279
+GlobalIndex 278 
+Found new structure, now there are:  280
+GlobalIndex 279 
+Found new structure, now there are:  281
+GlobalIndex 280 
+Found new structure, now there are:  282
+GlobalIndex 281 
+Found new structure, now there are:  283
+GlobalIndex 282 
+Found new structure, now there are:  284
+GlobalIndex 283 
+Found new structure, now there are:  285
+GlobalIndex 284 
+Found new structure, now there are:  286
+GlobalIndex 285 
+Found new structure, now there are:  287
+GlobalIndex 286 
+Found new structure, now there are:  288
+GlobalIndex 287 
+Found new structure, now there are:  289
+GlobalIndex 288 
+Found new structure, now there are:  290
+GlobalIndex 289 
+Found new structure, now there are:  291
+GlobalIndex 290 
+Found new structure, now there are:  292
+GlobalIndex 291 
+Found new structure, now there are:  293
+GlobalIndex 292 
+Found new structure, now there are:  294
+GlobalIndex 293 
+Found new structure, now there are:  295
+GlobalIndex 294 
+Found new structure, now there are:  296
+GlobalIndex 295 
+Found new structure, now there are:  297
+GlobalIndex 296 
+Found new structure, now there are:  298
+GlobalIndex 297 
+Found new structure, now there are:  299
+GlobalIndex 298 
+Found new structure, now there are:  300
+GlobalIndex 299 
+Found new structure, now there are:  301
+GlobalIndex 300 
+Found new structure, now there are:  302
+GlobalIndex 301 
+Found new structure, now there are:  303
+GlobalIndex 302 
+Found new structure, now there are:  304
+GlobalIndex 303 
+Found new structure, now there are:  305
+GlobalIndex 304 
+Found new structure, now there are:  306
+GlobalIndex 305 
+Found new structure, now there are:  307
+GlobalIndex 306 
+Found new structure, now there are:  308
+GlobalIndex 307 
+Found new structure, now there are:  309
+GlobalIndex 308 
+Found new structure, now there are:  310
+GlobalIndex 309 
+Found new structure, now there are:  311
+GlobalIndex 310 
+Found new structure, now there are:  312
+GlobalIndex 311 
+Found new structure, now there are:  313
+GlobalIndex 312 
+Found new structure, now there are:  314
+GlobalIndex 313 
+Found new structure, now there are:  315
+GlobalIndex 314 
+Found new structure, now there are:  316
+GlobalIndex 315 
+Found new structure, now there are:  317
+GlobalIndex 316 
+Found new structure, now there are:  318
+GlobalIndex 317 
+Found new structure, now there are:  319
+GlobalIndex 318 
+Found new structure, now there are:  320
+GlobalIndex 319 
+Found new structure, now there are:  321
+GlobalIndex 320 
+Found new structure, now there are:  322
+GlobalIndex 321 
+Found new structure, now there are:  323
+GlobalIndex 322 
+Found new structure, now there are:  324
+GlobalIndex 323 
+Found new structure, now there are:  325
+GlobalIndex 324 
+Found new structure, now there are:  326
+GlobalIndex 325 
+Found new structure, now there are:  327
+GlobalIndex 326 
+Found new structure, now there are:  328
+GlobalIndex 327 
+Found new structure, now there are:  329
+GlobalIndex 328 
+Found new structure, now there are:  330
+GlobalIndex 329 
+Found new structure, now there are:  331
+GlobalIndex 330 
+Found new structure, now there are:  332
+GlobalIndex 331 
+Found new structure, now there are:  333
+GlobalIndex 332 
+Found new structure, now there are:  334
+GlobalIndex 333 
+Found new structure, now there are:  335
+GlobalIndex 334 
+Found new structure, now there are:  336
+GlobalIndex 335 
+Found new structure, now there are:  337
+GlobalIndex 336 
+Found new structure, now there are:  338
+GlobalIndex 337 
+Found new structure, now there are:  339
+GlobalIndex 338 
+Found new structure, now there are:  340
+GlobalIndex 339 
+Found new structure, now there are:  341
+GlobalIndex 340 
+Found new structure, now there are:  342
+GlobalIndex 341 
+Found new structure, now there are:  343
+GlobalIndex 342 
+Found new structure, now there are:  344
+GlobalIndex 343 
+Found new structure, now there are:  345
+GlobalIndex 344 
+Found new structure, now there are:  346
+GlobalIndex 345 
+Found new structure, now there are:  347
+GlobalIndex 346 
+Found new structure, now there are:  348
+GlobalIndex 347 
+Found new structure, now there are:  349
+GlobalIndex 348 
+Found new structure, now there are:  350
+GlobalIndex 349 
+Found new structure, now there are:  351
+GlobalIndex 350 
+Found new structure, now there are:  352
+GlobalIndex 351 
+Found new structure, now there are:  353
+GlobalIndex 352 
+Found new structure, now there are:  354
+GlobalIndex 353 
+Found new structure, now there are:  355
+GlobalIndex 354 
+Found new structure, now there are:  356
+GlobalIndex 355 
+Found new structure, now there are:  357
+GlobalIndex 356 
+Found new structure, now there are:  358
+GlobalIndex 357 
+Found new structure, now there are:  359
+GlobalIndex 358 
+Found new structure, now there are:  360
+GlobalIndex 359 
+Found new structure, now there are:  361
+GlobalIndex 360 
+Found new structure, now there are:  362
+GlobalIndex 361 
+Found new structure, now there are:  363
+GlobalIndex 362 
+Found new structure, now there are:  364
+GlobalIndex 363 
+Found new structure, now there are:  365
+GlobalIndex 364 
+Found new structure, now there are:  366
+GlobalIndex 365 
+Found new structure, now there are:  367
+GlobalIndex 366 
+Found new structure, now there are:  368
+GlobalIndex 367 
+Found new structure, now there are:  369
+GlobalIndex 368 
+Found new structure, now there are:  370
+GlobalIndex 369 
+Found new structure, now there are:  371
+GlobalIndex 370 
+Found new structure, now there are:  372
+GlobalIndex 371 
+Found new structure, now there are:  373
+GlobalIndex 372 
+Found new structure, now there are:  374
+GlobalIndex 373 
+Found new structure, now there are:  375
+GlobalIndex 374 
+Found new structure, now there are:  376
+GlobalIndex 375 
+Found new structure, now there are:  377
+GlobalIndex 376 
+Found new structure, now there are:  378
+GlobalIndex 377 
+Found new structure, now there are:  379
+GlobalIndex 378 
+Found new structure, now there are:  380
+GlobalIndex 379 
+Found new structure, now there are:  381
+GlobalIndex 380 
+Found new structure, now there are:  382
+GlobalIndex 381 
+Found new structure, now there are:  383
+GlobalIndex 382 
+Found new structure, now there are:  384
+GlobalIndex 383 
+Found new structure, now there are:  385
+GlobalIndex 384 
+Found new structure, now there are:  386
+GlobalIndex 385 
+Found new structure, now there are:  387
+GlobalIndex 386 
+Found new structure, now there are:  388
+GlobalIndex 387 
+Found new structure, now there are:  389
+GlobalIndex 388 
+Found new structure, now there are:  390
+GlobalIndex 389 
+Found new structure, now there are:  391
+GlobalIndex 390 
+Found new structure, now there are:  392
+GlobalIndex 391 
+Found new structure, now there are:  393
+GlobalIndex 392 
+Found new structure, now there are:  394
+GlobalIndex 393 
+Found new structure, now there are:  395
+GlobalIndex 394 
+Found new structure, now there are:  396
+GlobalIndex 395 
+Found new structure, now there are:  397
+GlobalIndex 396 
+Found new structure, now there are:  398
+GlobalIndex 397 
+Found new structure, now there are:  399
+GlobalIndex 398 
+Found new structure, now there are:  400
+GlobalIndex 399 
+Found new structure, now there are:  401
+GlobalIndex 400 
+Found new structure, now there are:  402
+GlobalIndex 401 
+Found new structure, now there are:  403
+GlobalIndex 402 
+Found new structure, now there are:  404
+GlobalIndex 403 
+Found new structure, now there are:  405
+GlobalIndex 404 
+Found new structure, now there are:  406
+GlobalIndex 405 
+Found new structure, now there are:  407
+GlobalIndex 406 
+Found new structure, now there are:  408
+GlobalIndex 407 
+Found new structure, now there are:  409
+GlobalIndex 408 
+Found new structure, now there are:  410
+GlobalIndex 409 
+Found new structure, now there are:  411
+GlobalIndex 410 
+Found new structure, now there are:  412
+GlobalIndex 411 
+Found new structure, now there are:  413
+GlobalIndex 412 
+Found new structure, now there are:  414
+GlobalIndex 413 
+Found new structure, now there are:  415
+GlobalIndex 414 
+Found new structure, now there are:  416
+GlobalIndex 415 
+Found new structure, now there are:  417
+GlobalIndex 416 
+Found new structure, now there are:  418
+GlobalIndex 417 
+Found new structure, now there are:  419
+GlobalIndex 418 
+Found new structure, now there are:  420
+GlobalIndex 419 
+Found new structure, now there are:  421
+GlobalIndex 420 
+Found new structure, now there are:  422
+GlobalIndex 421 
+Found new structure, now there are:  423
+GlobalIndex 422 
+Found new structure, now there are:  424
+GlobalIndex 423 
+Found new structure, now there are:  425
+GlobalIndex 424 
+Found new structure, now there are:  426
+GlobalIndex 425 
+Found new structure, now there are:  427
+GlobalIndex 426 
+Found new structure, now there are:  428
+GlobalIndex 427 
+Found new structure, now there are:  429
+GlobalIndex 428 
+Found new structure, now there are:  430
+GlobalIndex 429 
+Found new structure, now there are:  431
+GlobalIndex 430 
+Found new structure, now there are:  432
+GlobalIndex 431 
+Found new structure, now there are:  433
+GlobalIndex 432 
+Found new structure, now there are:  434
+GlobalIndex 433 
+Found new structure, now there are:  435
+GlobalIndex 434 
+Found new structure, now there are:  436
+GlobalIndex 435 
+Found new structure, now there are:  437
+GlobalIndex 436 
+Found new structure, now there are:  438
+GlobalIndex 437 
+Found new structure, now there are:  439
+GlobalIndex 438 
+Found new structure, now there are:  440
+GlobalIndex 439 
+Found new structure, now there are:  441
+GlobalIndex 440 
+Found new structure, now there are:  442
+GlobalIndex 441 
+Found new structure, now there are:  443
+GlobalIndex 442 
+Found new structure, now there are:  444
+GlobalIndex 443 
+Found new structure, now there are:  445
+GlobalIndex 444 
+Found new structure, now there are:  446
+GlobalIndex 445 
+Found new structure, now there are:  447
+GlobalIndex 446 
+Found new structure, now there are:  448
+GlobalIndex 447 
+Found new structure, now there are:  449
+GlobalIndex 448 
+Found new structure, now there are:  450
+GlobalIndex 449 
+Found new structure, now there are:  451
+GlobalIndex 450 
+Found new structure, now there are:  452
+GlobalIndex 451 
+Found new structure, now there are:  453
+GlobalIndex 452 
+Found new structure, now there are:  454
+GlobalIndex 453 
+Found new structure, now there are:  455
+GlobalIndex 454 
+Found new structure, now there are:  456
+GlobalIndex 455 
+Found new structure, now there are:  457
+GlobalIndex 456 
+Found new structure, now there are:  458
+GlobalIndex 457 
+Found new structure, now there are:  459
+GlobalIndex 458 
+Found new structure, now there are:  460
+GlobalIndex 459 
+Found new structure, now there are:  461
+GlobalIndex 460 
+Found new structure, now there are:  462
+GlobalIndex 461 
+Found new structure, now there are:  463
+GlobalIndex 462 
+Found new structure, now there are:  464
+GlobalIndex 463 
+Found new structure, now there are:  465
+GlobalIndex 464 
+Found new structure, now there are:  466
+GlobalIndex 465 
+Found new structure, now there are:  467
+GlobalIndex 466 
+Found new structure, now there are:  468
+GlobalIndex 467 
+Found new structure, now there are:  469
+GlobalIndex 468 
+Found new structure, now there are:  470
+GlobalIndex 469 
+Found new structure, now there are:  471
+GlobalIndex 470 
+Found new structure, now there are:  472
+GlobalIndex 471 
+Found new structure, now there are:  473
+GlobalIndex 472 
+Found new structure, now there are:  474
+GlobalIndex 473 
+Found new structure, now there are:  475
+GlobalIndex 474 
+Found new structure, now there are:  476
+GlobalIndex 475 
+Found new structure, now there are:  477
+GlobalIndex 476 
+Found new structure, now there are:  478
+GlobalIndex 477 
+Found new structure, now there are:  479
+GlobalIndex 478 
+Found new structure, now there are:  480
+GlobalIndex 479 
+Found new structure, now there are:  481
+GlobalIndex 480 
+Found new structure, now there are:  482
+GlobalIndex 481 
+Found new structure, now there are:  483
+GlobalIndex 482 
+Found new structure, now there are:  484
+GlobalIndex 483 
+Found new structure, now there are:  485
+GlobalIndex 484 
+Found new structure, now there are:  486
+GlobalIndex 485 
+Found new structure, now there are:  487
+GlobalIndex 486 
+Found new structure, now there are:  488
+GlobalIndex 487 
+Found new structure, now there are:  489
+GlobalIndex 488 
+Found new structure, now there are:  490
+GlobalIndex 489 
+Found new structure, now there are:  491
+GlobalIndex 490 
+Found new structure, now there are:  492
+GlobalIndex 491 
+Found new structure, now there are:  493
+GlobalIndex 492 
+Found new structure, now there are:  494
+GlobalIndex 493 
+Found new structure, now there are:  495
+GlobalIndex 494 
+Found new structure, now there are:  496
+GlobalIndex 495 
+Found new structure, now there are:  497
+GlobalIndex 496 
+Found new structure, now there are:  498
+GlobalIndex 497 
+Found new structure, now there are:  499
+GlobalIndex 498 
+Found new structure, now there are:  500
+GlobalIndex 499 
+Found new structure, now there are:  501
+GlobalIndex 500 
+Found new structure, now there are:  502
+GlobalIndex 501 
+Found new structure, now there are:  503
+GlobalIndex 502 
+Found new structure, now there are:  504
+GlobalIndex 503 
+Found new structure, now there are:  505
+GlobalIndex 504 
+Found new structure, now there are:  506
+GlobalIndex 505 
+Found new structure, now there are:  507
+GlobalIndex 506 
+Found new structure, now there are:  508
+GlobalIndex 507 
+Found new structure, now there are:  509
+GlobalIndex 508 
+Found new structure, now there are:  510
+GlobalIndex 509 
+Found new structure, now there are:  511
+GlobalIndex 510 
+Found new structure, now there are:  512
+GlobalIndex 511 
+Found new structure, now there are:  513
+GlobalIndex 512 
+Found new structure, now there are:  514
+GlobalIndex 513 
+Found new structure, now there are:  515
+GlobalIndex 514 
+Found new structure, now there are:  516
+GlobalIndex 515 
+Found new structure, now there are:  517
+GlobalIndex 516 
+Found new structure, now there are:  518
+GlobalIndex 517 
+Found new structure, now there are:  519
+GlobalIndex 518 
+Found new structure, now there are:  520
+GlobalIndex 519 
+Found new structure, now there are:  521
+GlobalIndex 520 
+Found new structure, now there are:  522
+GlobalIndex 521 
+Found new structure, now there are:  523
+GlobalIndex 522 
+Found new structure, now there are:  524
+GlobalIndex 523 
+Found new structure, now there are:  525
+GlobalIndex 524 
+Found new structure, now there are:  526
+GlobalIndex 525 
+Found new structure, now there are:  527
+GlobalIndex 526 
+Found new structure, now there are:  528
+GlobalIndex 527 
+Found new structure, now there are:  529
+GlobalIndex 528 
+Found new structure, now there are:  530
+GlobalIndex 529 
+Found new structure, now there are:  531
+GlobalIndex 530 
+Found new structure, now there are:  532
+GlobalIndex 531 
+Found new structure, now there are:  533
+GlobalIndex 532 
+Found new structure, now there are:  534
+GlobalIndex 533 
+Found new structure, now there are:  535
+GlobalIndex 534 
+Found new structure, now there are:  536
+GlobalIndex 535 
+Found new structure, now there are:  537
+GlobalIndex 536 
+Found new structure, now there are:  538
+GlobalIndex 537 
+Found new structure, now there are:  539
+GlobalIndex 538 
+Found new structure, now there are:  540
+GlobalIndex 539 
+Found new structure, now there are:  541
+GlobalIndex 540 
+Found new structure, now there are:  542
+GlobalIndex 541 
+Found new structure, now there are:  543
+GlobalIndex 542 
+Found new structure, now there are:  544
+GlobalIndex 543 
+Found new structure, now there are:  545
+GlobalIndex 544 
+Found new structure, now there are:  546
+GlobalIndex 545 
+Found new structure, now there are:  547
+GlobalIndex 546 
+Found new structure, now there are:  548
+GlobalIndex 547 
+Found new structure, now there are:  549
+GlobalIndex 548 
+Found new structure, now there are:  550
+GlobalIndex 549 
+Found new structure, now there are:  551
+GlobalIndex 550 
+Found new structure, now there are:  552
+GlobalIndex 551 
+Found new structure, now there are:  553
+GlobalIndex 552 
+Found new structure, now there are:  554
+GlobalIndex 553 
+Found new structure, now there are:  555
+GlobalIndex 554 
+Found new structure, now there are:  556
+GlobalIndex 555 
+Found new structure, now there are:  557
+GlobalIndex 556 
+Found new structure, now there are:  558
+GlobalIndex 557 
+Found new structure, now there are:  559
+GlobalIndex 558 
+Found new structure, now there are:  560
+GlobalIndex 559 
+Found new structure, now there are:  561
+GlobalIndex 560 
+Found new structure, now there are:  562
+GlobalIndex 561 
+Found new structure, now there are:  563
+GlobalIndex 562 
+Found new structure, now there are:  564
+GlobalIndex 563 
+Found new structure, now there are:  565
+GlobalIndex 564 
+Found new structure, now there are:  566
+GlobalIndex 565 
+Found new structure, now there are:  567
+GlobalIndex 566 
+Found new structure, now there are:  568
+GlobalIndex 567 
+Found new structure, now there are:  569
+GlobalIndex 568 
+Found new structure, now there are:  570
+GlobalIndex 569 
+Found new structure, now there are:  571
+GlobalIndex 570 
+Found new structure, now there are:  572
+GlobalIndex 571 
+Found new structure, now there are:  573
+GlobalIndex 572 
+Found new structure, now there are:  574
+GlobalIndex 573 
+Found new structure, now there are:  575
+GlobalIndex 574 
+Found new structure, now there are:  576
+GlobalIndex 575 
+Found new structure, now there are:  577
+GlobalIndex 576 
+Found new structure, now there are:  578
+GlobalIndex 577 
+Found new structure, now there are:  579
+GlobalIndex 578 
+Found new structure, now there are:  580
+GlobalIndex 579 
+Found new structure, now there are:  581
+GlobalIndex 580 
+Found new structure, now there are:  582
+GlobalIndex 581 
+Found new structure, now there are:  583
+GlobalIndex 582 
+Found new structure, now there are:  584
+GlobalIndex 583 
+Found new structure, now there are:  585
+GlobalIndex 584 
+Found new structure, now there are:  586
+GlobalIndex 585 
+Found new structure, now there are:  587
+GlobalIndex 586 
+Found new structure, now there are:  588
+GlobalIndex 587 
+Found new structure, now there are:  589
+GlobalIndex 588 
+Found new structure, now there are:  590
+GlobalIndex 589 
+Found new structure, now there are:  591
+GlobalIndex 590 
+Found new structure, now there are:  592
+GlobalIndex 591 
+Found new structure, now there are:  593
+GlobalIndex 592 
+Found new structure, now there are:  594
+GlobalIndex 593 
+Found new structure, now there are:  595
+GlobalIndex 594 
+Found new structure, now there are:  596
+GlobalIndex 595 
+Found new structure, now there are:  597
+GlobalIndex 596 
+Found new structure, now there are:  598
+GlobalIndex 597 
+Found new structure, now there are:  599
+GlobalIndex 598 
+Found new structure, now there are:  600
+GlobalIndex 599 
+Found new structure, now there are:  601
+GlobalIndex 600 
+Found new structure, now there are:  602
+GlobalIndex 601 
+Found new structure, now there are:  603
+GlobalIndex 602 
+Found new structure, now there are:  604
+GlobalIndex 603 
+Found new structure, now there are:  605
+GlobalIndex 604 
+Found new structure, now there are:  606
+GlobalIndex 605 
+Found new structure, now there are:  607
+GlobalIndex 606 
+Found new structure, now there are:  608
+GlobalIndex 607 
+Found new structure, now there are:  609
+GlobalIndex 608 
+Found new structure, now there are:  610
+GlobalIndex 609 
+Found new structure, now there are:  611
+GlobalIndex 610 
+Found new structure, now there are:  612
+GlobalIndex 611 
+Found new structure, now there are:  613
+GlobalIndex 612 
+Found new structure, now there are:  614
+GlobalIndex 613 
+Found new structure, now there are:  615
+GlobalIndex 614 
+Found new structure, now there are:  616
+GlobalIndex 615 
+Found new structure, now there are:  617
+GlobalIndex 616 
+Found new structure, now there are:  618
+GlobalIndex 617 
+Found new structure, now there are:  619
+GlobalIndex 618 
+Found new structure, now there are:  620
+GlobalIndex 619 
+Found new structure, now there are:  621
+GlobalIndex 620 
+Found new structure, now there are:  622
+GlobalIndex 621 
+Found new structure, now there are:  623
+GlobalIndex 622 
+Found new structure, now there are:  624
+GlobalIndex 623 
+Found new structure, now there are:  625
+GlobalIndex 624 
+Found new structure, now there are:  626
+GlobalIndex 625 
+Found new structure, now there are:  627
+GlobalIndex 626 
+Found new structure, now there are:  628
+GlobalIndex 627 
+Found new structure, now there are:  629
+GlobalIndex 628 
+Found new structure, now there are:  630
+GlobalIndex 629 
+Found new structure, now there are:  631
+GlobalIndex 630 
+Found new structure, now there are:  632
+GlobalIndex 631 
+Found new structure, now there are:  633
+GlobalIndex 632 
+Found new structure, now there are:  634
+GlobalIndex 633 
+Found new structure, now there are:  635
+GlobalIndex 634 
+Found new structure, now there are:  636
+GlobalIndex 635 
+Found new structure, now there are:  637
+GlobalIndex 636 
+Found new structure, now there are:  638
+GlobalIndex 637 
+Found new structure, now there are:  639
+GlobalIndex 638 
+Found new structure, now there are:  640
+GlobalIndex 639 
+Found new structure, now there are:  641
+GlobalIndex 640 
+Found new structure, now there are:  642
+GlobalIndex 641 
+Found new structure, now there are:  643
+GlobalIndex 642 
+Found new structure, now there are:  644
+GlobalIndex 643 
+Found new structure, now there are:  645
+GlobalIndex 644 
+Found new structure, now there are:  646
+GlobalIndex 645 
+Found new structure, now there are:  647
+GlobalIndex 646 
+Found new structure, now there are:  648
+GlobalIndex 647 
+Found new structure, now there are:  649
+GlobalIndex 648 
+Found new structure, now there are:  650
+GlobalIndex 649 
+Found new structure, now there are:  651
+GlobalIndex 650 
+Found new structure, now there are:  652
+GlobalIndex 651 
+Found new structure, now there are:  653
+GlobalIndex 652 
+Found new structure, now there are:  654
+GlobalIndex 653 
+Found new structure, now there are:  655
+GlobalIndex 654 
+Found new structure, now there are:  656
+GlobalIndex 655 
+Found new structure, now there are:  657
+GlobalIndex 656 
+Found new structure, now there are:  658
+GlobalIndex 657 
+Found new structure, now there are:  659
+GlobalIndex 658 
+Found new structure, now there are:  660
+GlobalIndex 659 
+Found new structure, now there are:  661
+GlobalIndex 660 
+Found new structure, now there are:  662
+GlobalIndex 661 
+Found new structure, now there are:  663
+GlobalIndex 662 
+Found new structure, now there are:  664
+GlobalIndex 663 
+Found new structure, now there are:  665
+GlobalIndex 664 
+Found new structure, now there are:  666
+GlobalIndex 665 
+Found new structure, now there are:  667
+GlobalIndex 666 
+Found new structure, now there are:  668
+GlobalIndex 667 
+Found new structure, now there are:  669
+GlobalIndex 668 
+Found new structure, now there are:  670
+GlobalIndex 669 
+Found new structure, now there are:  671
+GlobalIndex 670 
+Found new structure, now there are:  672
+GlobalIndex 671 
+Found new structure, now there are:  673
+GlobalIndex 672 
+Found new structure, now there are:  674
+GlobalIndex 673 
+Found new structure, now there are:  675
+GlobalIndex 674 
+Found new structure, now there are:  676
+GlobalIndex 675 
+Found new structure, now there are:  677
+GlobalIndex 676 
+Found new structure, now there are:  678
+GlobalIndex 677 
+Found new structure, now there are:  679
+GlobalIndex 678 
+Found new structure, now there are:  680
+GlobalIndex 679 
+Found new structure, now there are:  681
+GlobalIndex 680 
+Found new structure, now there are:  682
+GlobalIndex 681 
+Found new structure, now there are:  683
+GlobalIndex 682 
+Found new structure, now there are:  684
+GlobalIndex 683 
+Found new structure, now there are:  685
+GlobalIndex 684 
+Found new structure, now there are:  686
+GlobalIndex 685 
+Found new structure, now there are:  687
+GlobalIndex 686 
+Found new structure, now there are:  688
+GlobalIndex 687 
+Found new structure, now there are:  689
+GlobalIndex 688 
+Found new structure, now there are:  690
+GlobalIndex 689 
+Found new structure, now there are:  691
+GlobalIndex 690 
+Found new structure, now there are:  692
+GlobalIndex 691 
+Found new structure, now there are:  693
+GlobalIndex 692 
+Found new structure, now there are:  694
+GlobalIndex 693 
+Found new structure, now there are:  695
+GlobalIndex 694 
+Found new structure, now there are:  696
+GlobalIndex 695 
+Found new structure, now there are:  697
+GlobalIndex 696 
+Found new structure, now there are:  698
+GlobalIndex 697 
+Found new structure, now there are:  699
+GlobalIndex 698 
+Found new structure, now there are:  700
+GlobalIndex 699 
+Found new structure, now there are:  701
+GlobalIndex 700 
+Found new structure, now there are:  702
+GlobalIndex 701 
+Found new structure, now there are:  703
+GlobalIndex 702 
+Found new structure, now there are:  704
+GlobalIndex 703 
+Found new structure, now there are:  705
+GlobalIndex 704 
+Found new structure, now there are:  706
+GlobalIndex 705 
+Found new structure, now there are:  707
+GlobalIndex 706 
+Found new structure, now there are:  708
+GlobalIndex 707 
+Found new structure, now there are:  709
+GlobalIndex 708 
+Found new structure, now there are:  710
+GlobalIndex 709 
+Found new structure, now there are:  711
+GlobalIndex 710 
+Found new structure, now there are:  712
+GlobalIndex 711 
+Found new structure, now there are:  713
+GlobalIndex 712 
+Found new structure, now there are:  714
+GlobalIndex 713 
+Found new structure, now there are:  715
+GlobalIndex 714 
+Found new structure, now there are:  716
+GlobalIndex 715 
+Found new structure, now there are:  717
+GlobalIndex 716 
+Found new structure, now there are:  718
+GlobalIndex 717 
+Found new structure, now there are:  719
+GlobalIndex 718 
+Found new structure, now there are:  720
+GlobalIndex 719 

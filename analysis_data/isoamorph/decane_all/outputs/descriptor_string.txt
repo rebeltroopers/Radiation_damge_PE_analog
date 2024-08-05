@@ -1,0 +1,12 @@
+Natom_total
+Natom_C
+Natom_H
+Nbond_C-C
+Nbond_C-H
+Nbond_H-H
+Nangle_C-C-C
+Nangle_C-C-H
+Nangle_C-H-C
+Nangle_C-H-H
+Nangle_H-C-H
+Nangle_H-H-H

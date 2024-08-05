@@ -1,0 +1,82 @@
+# Force Field for Quick Backbone Opt
+
+newton          on
+dimension	3
+boundary        p p p
+units           real
+
+neighbor        2.0 bin
+
+atom_style      full
+bond_style      harmonic
+angle_style     harmonic
+dihedral_style  none
+improper_style  none
+	
+
+#-------------------------------------------------------------
+# GET DATA FILE
+#-------------------------------------------------------------
+
+read_data	data.pdms 
+
+#-------------------------------------------------------------
+# SPECIFY FORCE FIELD
+#-------------------------------------------------------------
+
+#pair_style 	lj/cut 3.367386145 
+#special_bonds	lj 0.0 0.0 1.0 
+#pair_coeff     	* * 0.1 3.0	
+
+bond_coeff  	1   400.0   1.5	
+
+angle_coeff	1   200.0  170.0
+
+#-------------------------------------------------------------
+# DUMP SETUP
+#-------------------------------------------------------------
+
+thermo_style 	custom step time etotal pe ke temp press pxx pyy pzz pxy pxz pyz lx ly lz 
+thermo 		1000
+
+dump		trajectory	all custom 1000 dump.lammpstrj id mol type xu yu zu 
+dump_modify	trajectory	first yes sort id format line "%8d %6d %4d %25.12e %25.12e %25.12e"
+
+
+#-------------------------------------------------------------
+# SIMULATION SETUP
+#-------------------------------------------------------------
+
+min_style	fire
+
+variable	a loop 300
+
+label		loop
+group		holdgroup id >= $a
+fix		2 holdgroup setforce 0.0 0.0 0.0
+minimize 	1.0e-6 1.0e-8 1000 10000
+fix		10 all nvt temp 300.0 300.0 10.0
+run		100
+unfix		10 
+unfix		2
+group		holdgroup clear
+next		a 
+jump 		in.pdms loop
+
+
+pair_style 	lj/cut 3.367386145 
+special_bonds	lj 0.0 0.0 0.0 
+pair_coeff     	* * 0.1 3.0
+
+#minimize 	1.0e-6 1.0e-8 1000 10000
+
+reset_timestep  0 
+
+fix		10 all nvt temp 300.0 300.0 10.0
+fix		20 all deform 1 z final 0.0 3.0 units box 
+run		2000
+unfix		20
+unfix		10 
+
+minimize 	1.0e-6 1.0e-8 1000 10000
+
